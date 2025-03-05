@@ -23,8 +23,8 @@ I'm currently studying **Computer Science at San Jose City College**, focusing o
 ---
 
 ### 🔗 How to Reach Me  
-- 🔗 **LinkedIn**: [Your LinkedIn URL](#)  
-- 📧 **Email**: [Your Professional Email](#)  
+- 🔗 **LinkedIn**: [LinkedIn URL](#)  
+- 📧 **Email**: [Email](#)  
 - 🌐 **Portfolio**: [Coming Soon]  
 
 ---
@@ -36,13 +36,6 @@ I'm currently studying **Computer Science at San Jose City College**, focusing o
 
 ---
 
-### 🎯 Accessibility Considerations  
-- ✅ **Proper heading structure** for readability  
-- 🖼️ **Alt text for images & emojis** for screen readers  
-- 🔗 **Descriptive links** instead of "click here"  
-- 🌈 **Color contrast considerations** for visual clarity  
-
----
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhuDangTheDevl&show_icons=true&theme=radical)  
