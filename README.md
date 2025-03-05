@@ -22,13 +22,6 @@ I'm currently studying **Computer Science at San Jose City College**, focusing o
 
 ---
 
-### 🔗 How to Reach Me  
-- 🔗 **LinkedIn**: [LinkedIn URL](#)  
-- 📧 **Email**: [Email](#)  
-- 🌐 **Portfolio**: [Coming Soon]  
-
----
-
 ### 🌱 Recent Coursework  
 - **Web Accessibility & Inclusive Design** – Applying accessibility principles to websites  
 - **Database Systems** – Designing relational databases using MySQL  
@@ -47,3 +40,9 @@ I'm currently studying **Computer Science at San Jose City College**, focusing o
 
 ---
 
+### 🔗 How to Reach Me  
+- 🔗 **LinkedIn**: [LinkedIn URL](#)  
+- 📧 **Email**: [Email](#)  
+- 🌐 **Portfolio**: [Coming Soon]  
+
+---
