@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nhu Dang
 ## Graphic Designer | Aspiring Software Developer | Computer Science Student  
 
-I'm currently studying **Computer Science at San Jose City College**, focusing on **full-stack development and cloud computing**. My passion lies in building accessible and user-friendly applications.
+I'm currently studying **Computer Science at San Jose City College**, focusing on **Website Developer** and **UX/UI Designer**. My passion lies in building accessible, user-friendly, and beautiful applications.
 
 ---
 
