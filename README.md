@@ -60,4 +60,3 @@ I'm currently studying **Computer Science at San Jose City College**, focusing o
 
 ---
 
-This README follows **accessibility best practices**, improves **professional presentation**, and ensures **logical content structure**. Let me know if you need further refinements! 🚀  
